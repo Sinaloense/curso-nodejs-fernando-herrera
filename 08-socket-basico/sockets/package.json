@@ -1,5 +1,5 @@
 {
-  "name": "08-socket-colas",
+  "name": "08-socket-basico",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Sinaloense/curso-nodejs-fernando-herrera#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {}
 }
